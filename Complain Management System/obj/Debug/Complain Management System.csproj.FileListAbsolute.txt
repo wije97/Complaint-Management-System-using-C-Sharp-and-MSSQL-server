@@ -1,0 +1,20 @@
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain Management System.csprojAssemblyReference.cache
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form1.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form2.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form3.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form4.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form5.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form6.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form7.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Properties.Resources.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain Management System.csproj.GenerateResource.cache
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\bin\Debug\Complain Management System.exe.config
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\bin\Debug\Complain Management System.exe
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\bin\Debug\Complain Management System.pdb
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain Management System.exe
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain Management System.pdb
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form8.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form10.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form9.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form11.resources
+F:\Projects\Assignment.lk\NSBM\Complaint Record system\Complain Management System\Complain Management System\obj\Debug\Complain_Management_System.Form12.resources
